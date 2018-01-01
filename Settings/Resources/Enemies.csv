@@ -1,0 +1,6 @@
+Name,HP,Hit_Count,Damage,Agility,XP,Gold
+Enemy1,8,1,4,4,6,6
+Enemy2,16,1,8,6,18,18
+Enemy3,20,1,8,0,6,24
+Enemy4,72,1,14,0,93,22
+Enemy5,68,1,14,6,135,67
