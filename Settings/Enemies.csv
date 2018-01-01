@@ -1,4 +1,4 @@
-Name,HP,Hit Count,Damage,Agility,XP,Gold
+name,hp,hitCount,damage,agility,xp,gold
 Enemy1,8,1,4,4,6,6
 Enemy2,16,1,8,6,18,18
 Enemy3,20,1,8,0,6,24
